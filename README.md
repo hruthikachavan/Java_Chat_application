@@ -29,11 +29,16 @@ A **Java-based chat application** that supports multiple clients, one-to-one mes
 - You can run multiple clients at a time
   
 ## Screenshots-  
-1.Client GUI- ![Client GUI](assets/Client_GUI.png)  
-2.All Client Options- ![All Client Options](assets/All_client_options.png)  
-3.Messaging Passing- ![Messaging Passing](assests/Message_Passing.png)  
-4.Messaging Broadcast- ![Message Broadcast](assets/Message_broadcast.png)  
-5.File Sharing- ![File Sharing](assets/File_sharing.png)  
+1.Client GUI-    
+![Client GUI](assets/Client_GUI.png)    
+2.All Client Options-     
+![All Client Options](assets/All_client_options.png)    
+3.Message Passing-    
+![Message Passing](assets/Message_Passing.png)    
+4.Messaging Broadcast-    
+![Message Broadcast](assets/Message_broadcast.png)    
+5.File Sharing-    
+![File Sharing](assets/File_sharing.png)    
 
 ## Future Improvement-  
 - Add user authentication with login and registration.  
